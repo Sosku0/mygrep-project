@@ -5,11 +5,11 @@
 #ifndef LOADER_H
 #define LOADER_H
 
+#include <iostream>
+#include <string>
 
+std::vector<std::string> loadFile(const std::string& filename);
 
-class loader {
-
-};
 
 
 
