@@ -77,7 +77,6 @@ int main(int argc, char* argv[]) { // OHJELMAN SUORITUS
   */
 
 
-
   // OHJELMAN "VALIKKO"
   // SWITCH RIIPPUU ARGUMENTTIEN MÄÄRÄSTÄ
   // 1 = VAIN ./ohjelma (SULJETAAN SUORITTAMATTA)

@@ -45,5 +45,6 @@ vector<string> loadFile(const string& filename) {
   } catch ( const exception& e)
   {
     cout << e.what() << endl;
+    return {};
   }
 }

@@ -107,5 +107,4 @@ void Search(string searchString, vector<string> linesToSearchFrom, vector<bool> 
             cout << "Occurrences of lines NOT containing '" << searchString << "': " << matchCount << endl;
         }
     }
-
 }
